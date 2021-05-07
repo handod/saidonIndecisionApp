@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saidonIndecisionApp/static/css/main.80e78d23.chunk.css",
+    "main.js": "/saidonIndecisionApp/static/js/main.0d87d638.chunk.js",
+    "main.js.map": "/saidonIndecisionApp/static/js/main.0d87d638.chunk.js.map",
+    "runtime-main.js": "/saidonIndecisionApp/static/js/runtime-main.09ccd399.js",
+    "runtime-main.js.map": "/saidonIndecisionApp/static/js/runtime-main.09ccd399.js.map",
+    "static/js/2.52c6b1fc.chunk.js": "/saidonIndecisionApp/static/js/2.52c6b1fc.chunk.js",
+    "static/js/2.52c6b1fc.chunk.js.map": "/saidonIndecisionApp/static/js/2.52c6b1fc.chunk.js.map",
+    "index.html": "/saidonIndecisionApp/index.html",
+    "static/css/main.80e78d23.chunk.css.map": "/saidonIndecisionApp/static/css/main.80e78d23.chunk.css.map",
+    "static/js/2.52c6b1fc.chunk.js.LICENSE.txt": "/saidonIndecisionApp/static/js/2.52c6b1fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ccd399.js",
+    "static/js/2.52c6b1fc.chunk.js",
+    "static/css/main.80e78d23.chunk.css",
+    "static/js/main.0d87d638.chunk.js"
+  ]
+}
